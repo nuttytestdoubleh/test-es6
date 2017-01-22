@@ -1,4 +1,3 @@
-// [1,2,3].map(n => n + 1);
 
 // Expression bodies
 var odds = evens.map(v => v + 1);
